@@ -55,7 +55,10 @@ Test resembles Train.csv but without the target-related columns. This is the dat
 
 **Process**
 
-1.This challenge is solved by applying my Data science knowledge to fine-tune a pretrained Hugging face model: First import data (test and train CSV from Zindi into Colab) 2.Code to eliminate rows containing NaN values 3. Load datasets into pretrained model 4. Select model under sentiment analysis for fine-tuning
+1.This challenge is solved by applying my Data science knowledge to fine-tune a pretrained Hugging face model: First import data (test and train CSV from Zindi into Colab) 
+2.Code to eliminate rows containing NaN values 
+3. Load datasets into pretrained model 
+4. Select model from hugging face under sentiment analysis for fine-tuning
 
 **Fine-Tuning Steps**
 
